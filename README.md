@@ -1,6 +1,6 @@
 # Projet-BD
 Projet de Base de données, dans le cadre du module 5 algèbre relationnel et SQL 📊
-Par le binome :
+# Par le binome :
 Yahya TAMOUCH Groupe 03
 # Projet Gestion Hôtel
 ### Partie 1 : Modélisation et Interrogation SQL
