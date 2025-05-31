@@ -3,7 +3,7 @@ Projet de Base de données, dans le cadre du module 5 algèbre relationnel et SQ
 # Par le binome :
 Binôme (INF) :
 - Yahya TAMOUCH Groupe 3 
-- Mohammed Ait Abbou Groupe 1 
+- Mohamed Ait Abbou Groupe 1 
 # Projet Gestion Hôtel
 ### Partie 1 : Modélisation et Interrogation SQL
 
